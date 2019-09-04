@@ -581,6 +581,8 @@ Public Class DataService
 
             End If
 
+
+
             With strsql
                 .Clear()
                 .Append("insert into class_Schedule values ('" & class_ID & "', '" & schedule_ID & "'")

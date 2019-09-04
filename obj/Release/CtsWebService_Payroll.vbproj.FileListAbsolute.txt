@@ -1,0 +1,2 @@
+C:\Users\mina2\Desktop\University-Allocation-BackEnd\obj\Release\CtsWebService_Payroll.vbprojResolveAssemblyReference.cache
+C:\Users\mina2\Desktop\University-Allocation-BackEnd\obj\Release\CtsWebService_Payroll.vbproj.GenerateResource.Cache

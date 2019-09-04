@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="CtsWebService.DataService" CodeBehind="DataService.svc.vb" %>
